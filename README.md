@@ -39,8 +39,3 @@ To run the game, you need a C++ compiler and a terminal. You can use any IDE or 
 - Compile the code using the command `g++ brain_test.cpp -o brain_test`
 - Run the executable file using the command `./brain_test`
 - Enjoy the game!
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](https://pip.pypa.io/en/stable/%29) file for details.
-
